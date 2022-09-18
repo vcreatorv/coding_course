@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-using namespace std
+using namespace std;
 // вспомогательные функции
 double f(double x, int i) {
 	if (i == 1) return x - cos(x);
