@@ -49,3 +49,4 @@ void iteration(double x, double eps, int i) {
 	cout << "Число " << x << " является корнем " << i << " уравнения, полученным при "
 		<< cnt << " попытке" << endl;
 }
+// ...
